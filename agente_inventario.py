@@ -6,10 +6,15 @@
 # ════════════════════════════════════════
 
 import sqlite3
+import sys
 from datetime import datetime
 import os
 from dotenv import load_dotenv
 import anthropic
+
+# Fuerza salida UTF-8 sin importar qué codificación tenga la consola
+# que ejecuta el script (necesario para Task Scheduler, que usa cp1252)
+sys.stdout.reconfigure(encoding="utf-8")
 
 load_dotenv()
 
