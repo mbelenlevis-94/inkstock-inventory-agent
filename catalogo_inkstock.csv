@@ -1,0 +1,29 @@
+id,nombre,categoria,stock,ventas_semana,precio_unitario
+TIN01,Tinta Negra Premium 30ml,TIN,35,30,4500
+TIN02,Tinta Roja Vibrante 15ml,TIN,6,28,3200
+TIN03,Tinta Azul Cobalto 15ml,TIN,20,12,3200
+TIN04,Tinta Blanca Opaca 30ml,TIN,5,10,4200
+TIN05,Set Tintas Pastel x6,TIN,15,2,15000
+TIN06,Tinta UV Invisible 15ml,TIN,18,6,5800
+AGU01,Agujas Round Liner 5RL,AGU,50,40,800
+AGU02,Agujas Round Shader 7RS,AGU,4,33,850
+AGU03,Agujas Magnum 9M1,AGU,22,18,900
+AGU04,Agujas Flat Shader 5FS,AGU,7,20,850
+AGU05,Cartuchos Mixtos x20,AGU,60,1,12000
+AGU06,Agujas Curved Magnum 11CM,AGU,14,9,950
+CUI01,Crema Cicatrizante 100g,CUI,40,27,3800
+CUI02,Film Protector Adhesivo,CUI,3,26,2100
+CUI03,Espuma Limpiadora Suave,CUI,9,5,2900
+CUI04,Aceite Reparador Premium,CUI,25,2,4700
+CUI05,Loción Hidratante Sin Perfume,CUI,6,15,3100
+CUI06,Kit Cuidado Completo,CUI,12,8,8900
+ACC01,Máquina Rotativa Pro,ACC,5,3,45000
+ACC02,Fuente de Alimentación Digital,ACC,10,4,28000
+ACC03,Grip Ergonómico 25mm,ACC,30,22,3500
+ACC04,Camilla Reclinable,ACC,2,1,65000
+ACC05,Lámpara LED de Precisión,ACC,18,0,22000
+CON01,Guantes Nitrilo x100,CON,80,45,6500
+CON02,Papel Film 45cm,CON,7,29,1800
+CON03,Vasos Tinta Descartables x50,CON,55,20,2200
+CON04,Cubre Camilla Descartable x50,CON,4,2,3400
+CON05,Toallas Desechables x100,CON,33,3,4100
